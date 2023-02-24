@@ -1,0 +1,14 @@
+caption{
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+}
+table{
+    width: 100%;
+    border: 1px solid red;
+
+}
+tr:nth-of-type(even)
+{
+    background-color:gray;
+}

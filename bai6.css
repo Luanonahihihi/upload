@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Text{
+    display: flex;
+}
+
+.Text1{
+    padding-left: 10px;
+    padding-right: 20px;
+}
+.Text2{
+    padding-left: 10px;
+    padding-right: 20px;
+}

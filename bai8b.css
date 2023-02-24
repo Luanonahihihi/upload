@@ -1,0 +1,11 @@
+.table{
+    width: 50vw;
+    border: 10px;
+    border-top-style: solid;
+    border-right-style: dotted;
+    border-bottom-style: groove;
+    border-left-style: double;
+    border-color: green orange lightgreen pink;
+    text-align: center;
+    margin: 0 auto;
+}

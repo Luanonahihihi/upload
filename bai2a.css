@@ -1,0 +1,50 @@
+div{
+    font-size: 1rem;
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p:nth-child(2)
+{
+    color:aqua;
+    font-size: 1rem;
+    text-align: right;
+}
+p:nth-child(3)
+{
+    color: green;
+    text-align: center;
+    font-size: 1rem;
+}
+p:nth-child(4)
+{
+    color: purple;
+    text-align: left;
+    font-size: 1rem;
+}
+p:nth-child(5)
+{
+    color: violet;
+    text-decoration: underline;
+    font-size: 1rem;
+}
+p:nth-child(6){
+    color: lightblue;
+    text-decoration: line-through;
+    font-size: 1rem;
+}
+p:nth-child(7){
+    color: #CC0000;
+    text-decoration: overline;
+    font-size: 1rem;
+}
+p:nth-child(8){
+    color: orange;
+    text-decoration: blink;
+    font-size: 1rem;
+    text-shadow: 12px 2px 7px green;
+    text-align: justify;
+    
+}
+
+
+

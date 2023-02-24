@@ -1,0 +1,43 @@
+.total__text{
+    border: 1px solid black;
+    box-shadow: 0px 1px 8px 2px black;
+    padding-top: 10px;
+
+}
+.text{
+    text-shadow: -1px -2px 2px red, 0px 2px 2px green;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+.tetx2{
+    
+    color: palevioletred;
+    background-color: pink;
+    display: inline-block;
+}
+.tetx3{
+    padding-top: 20px;
+    text-shadow: 0px -5px 1px rgb(185, 20, 75);
+}
+.tetx4{
+    color: rgba(226, 156, 27, 0.156);
+}
+.tetx5{
+    background-color: black;
+    color: #cc0000ad;
+    display: inline-block;
+    font-weight: bold;
+}
+.tetx6{
+    background-color: black;
+    font-weight: bold;
+    color: rgb(0, 0, 255);
+    display: inline-block;
+}
+.tetx7{
+    background-color: purple;
+    color: lightblue;
+    text-align: center;
+    
+}
+
